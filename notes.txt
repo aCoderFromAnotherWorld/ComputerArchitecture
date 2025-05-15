@@ -1,0 +1,13 @@
+[10] : a = 2
+[11] : b = 3
+[12] : c = 7
+[13] : d = 8
+[16] : ((a+b) or c) - ((c and d) or a)    //RESULT
+
+
+EXPECTED RESULT : 5 (in [16] address)
+
+
+yes we're done
+
+hurray!!!!!
